@@ -1,6 +1,7 @@
 # Quantitative Trading Strategies
 
 This project showcases a series of quantitative trading strategies, built in stages, to identify high-probability trading opportunities based on technical indicators and market dynamics.
+
 **Note:** The strategies in **Level 3** and **Level 4** represent the most advanced techniques in this project. While they contain more sophisticated methods, they build upon the foundations established in **Level 1** and **Level 2**. Please note that **Level 4** is actively used for real-time trading and is not publicly available. However, Levels 1–3 provide a comprehensive view of the system's capabilities.
 
 ## Project Structure:
