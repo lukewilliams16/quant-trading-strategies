@@ -23,19 +23,13 @@ This is the most advanced iteration of the strategy, using higher-order derivati
 Technologies Used:
 
 Python
-
 Pandas
-
 Numpy
-
 Matplotlib / Seaborn (for data visualization)
-
 Backtesting frameworks (e.g., Backtrader)
 
 Next Steps:
 
 Refactor and clean up code for better organization
-
 Add backtesting results and performance visualizations
-
-Continue working on refining Level 4 strategies
+Continue building and trading on Level 4 strategies
