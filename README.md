@@ -1,4 +1,5 @@
 Quantitative Trading Strategies
+
 This project showcases a series of quantitative trading strategies, built in stages, to identify high-probability trading opportunities based on technical indicators and market dynamics.
 
 Project Structure
