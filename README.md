@@ -2,7 +2,8 @@ Quantitative Trading Strategies
 
 This project showcases a series of quantitative trading strategies, built in stages, to identify high-probability trading opportunities based on technical indicators and market dynamics.
 
-Project Structure
+Project Structure:
+
 Level 1 – Momentum Riding and Dip Buying
 
 The first level focuses on riding momentum in established trends, with entries triggered by short-term pullbacks ("dips"). The goal is to buy these dips and profit from the continuation of the trend.
