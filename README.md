@@ -6,15 +6,15 @@ This project showcases a series of quantitative trading strategies, built in sta
 
 ## Project Structure:
 
-**Level 1 – Momentum Riding and Dip Buying**
+**[Level 1 – Momentum Riding and Dip Buying](notebooks/Level_1_Momentum_Dip_Buying.ipynb)** 
 
 The first level focuses on riding momentum in established trends, with entries triggered by short-term pullbacks ("dips"). The goal is to buy these dips and profit from the continuation of the trend.
 
-**Level 2 – Moving Average Crossover with RSI Confirmation**
+**[Level 2 – Moving Average Crossover with RSI Confirmation](notebooks/Level_2_MA_Crossover_RSI.ipynb)** 
 
 The second level introduces simple moving average (SMA) crossovers to identify trend changes, with RSI acting as a confirmation tool to reduce false signals during periods of low momentum.
 
-**Level 3 – Advanced Multi-Factor Enhancements**
+**[Level 3 – Advanced Multi-Factor Enhancements](notebooks/Level_3_Advanced_Multi_Factor.ipynb)** 
 
 In this level, more advanced techniques are added, including exponential moving averages (EMA), first derivative analysis, and layered RSI filters. These adjustments aim to refine entry and exit points while minimizing risk.
 
