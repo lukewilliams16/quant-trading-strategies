@@ -20,7 +20,7 @@ In this level, more advanced techniques are added, including exponential moving 
 
 **Level 4 – Proprietary Multi-Dimensional Signal Optimization**
 
-This is the most advanced iteration of the strategy, using higher-order derivatives and second-order momentum analysis to spot early market shifts and optimize trades. It adapts to changing market conditions using dynamic, multi-faceted filters for greater precision. 
+This is the most advanced iteration of the strategy, using higher-order derivatives and second-order momentum analysis to spot early market shifts and optimize trades. It adapts to changing market conditions using dynamic, multi-faceted filters for greater precision.          
 **Note: This strategy is not publicly available as it is actively used for real-time trading.**
 
 
