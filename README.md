@@ -18,9 +18,10 @@ In this level, more advanced techniques are added, including exponential moving 
 
 Level 4 – Proprietary Multi-Dimensional Signal Optimization
 
-This is the most advanced stage, utilizing higher-order derivatives and second-order momentum analysis to identify subtle shifts in market dynamics before they become apparent. The strategy incorporates adaptive, multi-layered filters to optimize entry and exit points based on real-time market conditions, providing a robust and flexible response to volatile market movements. (Currently under private development and not yet publicly shared.)
+This is the most advanced iteration of the strategy, using higher-order derivatives and second-order momentum analysis to spot early market shifts and optimize trades. It adapts to changing market conditions using dynamic, multi-faceted filters for greater precision. (Note: This strategy is not publicly available as it is actively used for real-time trading.)
 
-Technologies Used
+Technologies Used:
+
 Python
 
 Pandas
@@ -31,7 +32,8 @@ Matplotlib / Seaborn (for data visualization)
 
 Backtesting frameworks (e.g., Backtrader)
 
-Next Steps
+Next Steps:
+
 Refactor and clean up code for better organization
 
 Add backtesting results and performance visualizations
