@@ -16,7 +16,7 @@ The second level introduces simple moving average (SMA) crossovers to identify t
 
 **[Level 3 – Advanced Multi-Factor Enhancements](notebooks/Level_3_Advanced_Multi_Factor.ipynb)** 
 
-In this level, more advanced techniques are added, including exponential moving averages (EMA), first derivative analysis, and layered RSI filters. These adjustments aim to refine entry and exit points while minimizing risk.
+At this level, more advanced techniques are incorporated, including exponential moving averages (EMA), slope (first derivative) analysis, and layered RSI-based filters. These enhancements aim to refine entry and exit points, improve trend detection, and reduce false signals to better manage and minimize risk.
 
 **Level 4 – Proprietary Multi-Dimensional Signal Optimization**
 
