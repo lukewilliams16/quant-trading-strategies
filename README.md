@@ -1,10 +1,14 @@
 # Quantitative Trading Strategies
 
-This project showcases a series of quantitative trading strategies, built in stages, to identify high-probability trading opportunities based on technical indicators and market dynamics.
+This project showcases a series of quantitative trading strategies, built in stages, to identify high-probability trading opportunities based on technical indicators and market dynamics. Additionally, I have implemented trading strategies that focus more on commodities rather than stocks, targeting areas such as credit risk and energy markets.
 
 **Note:** The strategies in **Level 3** and **Level 4** represent the most advanced techniques in this project. While they contain more sophisticated methods, they build upon the foundations established in **Level 1** and **Level 2**. Please note that **Level 4** is actively used for real-time trading and is not publicly available. However, Levels 1–3 provide a comprehensive view of the system's capabilities.
 
 ## Project Structure:
+
+**[Quantitative Analysis: Credit and Commodities](notebooks/credit_risk_and_gas_forecasting/README.md)** 
+
+This project includes two practical quantitative analyses: one models the likelihood of credit defaults using borrower FICO scores, and the other evaluates gas storage contracts by forecasting future prices to estimate their financial value. Both use real data and focus on applying data-driven methods to real-world financial and energy markets.
 
 **[Level 1 – Momentum Riding and Dip Buying](notebooks/Level_1_Momentum_Dip_Buying.ipynb)** 
 
