@@ -1,4 +1,4 @@
-# Credit Default & Gas Storage Analysis
+# Quantitative Analysis: Credit & Energy Markets
 This folder includes Python scripts for two separate financial analyses:
 
 ## Projects:
