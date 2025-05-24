@@ -1,7 +1,7 @@
 # Credit Default & Gas Storage Analysis
 This folder includes Python scripts for two separate financial analyses:
 
-**[Credit Defualt Analysis](notebooks/credit_risk_and_gas_forecasting/Credit_default_regression_and_binning.ipynb)**
+**[Credit Defualt Analysis](/Credit_default_regression_and_binning.ipynb)**
 
 Performs logistic regression to predict loan defaults using FICO scores and other factors. It calculates optimal FICO score bins with minimum data sizes and visualizes default rates by score ranges to better understand credit risk.
 
