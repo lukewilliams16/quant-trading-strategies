@@ -1,5 +1,5 @@
 # Quantitative Analysis: Credit & Energy Markets
-This folder includes Python scripts for two separate financial analyses:
+These two projects come from JPMorgan quantitative training program (forage). The credit default analysis focuses on assessing borrower risk and predicting loan defaults, while the gas storage valuation addresses pricing and cash flow evaluation for energy contracts. These are real challenges JPMorgan faces across different divisions. The solutions here are my own implementations developed as part of their quantitative trading program, reflecting practical approaches to complex financial problems.
 
 ## Projects:
 
