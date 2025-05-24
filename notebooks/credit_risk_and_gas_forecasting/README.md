@@ -3,7 +3,7 @@ These two projects come from JPMorgan quantitative training program (forage). Th
 
 ## Projects:
 
-**[Credit Defualt Analysis](Credit_default_regression_and_binning.ipynb)**
+**[Credit Default Analysis](Credit_default_regression_and_binning.ipynb)**
 
 Performs logistic regression to predict loan defaults using FICO scores and other factors. It calculates optimal FICO score bins with minimum data sizes and visualizes default rates by score ranges to better understand credit risk.
 
