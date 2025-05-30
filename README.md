@@ -8,7 +8,7 @@ This project showcases a series of quantitative trading strategies, built in sta
 
 **[Quantitative Analysis: Credit and Commodities](notebooks/credit_risk_and_gas_forecasting/README.md)** 
 
-This project includes two practical quantitative analyses: one models the likelihood of credit defaults using borrower FICO scores, and the other evaluates gas storage contracts by forecasting future prices to estimate their financial value. Both use real data and focus on applying data-driven methods to real-world financial and energy markets.
+This project (from JPM) includes two practical quantitative analyses: one models the likelihood of credit defaults using borrower FICO scores, and the other evaluates gas storage contracts by forecasting future prices to estimate their financial value. Both use real data and focus on applying data-driven methods to real-world financial and energy markets.
 
 **[Level 1 – Momentum Riding and Dip Buying](notebooks/Level_1_Momentum_Dip_Buying.ipynb)** 
 
